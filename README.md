@@ -2,4 +2,4 @@
 LLISTAT DE COLABORADORS I EL ROL
 - Propietari: [ericssgg]
 - Colaborador: [Peier, Matthew (mattpeier)]
-- Colaborador: [Bonilla, Pedro (lobandolerpi)]
+- Colaborador: [Bonilla, Pedro (lobandolerpi)] 
